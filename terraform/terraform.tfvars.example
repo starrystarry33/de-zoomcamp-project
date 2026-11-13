@@ -1,0 +1,5 @@
+project     = "your-gcp-project-id"
+region      = "us-west1"
+credentials = "gcp-key.json"
+gcs_bucket  = "your-globally-unique-bucket-name"
+bq_dataset  = "taxi_dataset"
